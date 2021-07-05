@@ -1,0 +1,75 @@
+body{
+	margin-top:10px;
+	color: #000000;
+	font-size: 11px;
+	font-family:  Verdana, Arial, Helvetica;
+	font-weight: normal;
+	text-decoration: none;
+}
+td{
+	color: #000000;
+	font-size: 11px;
+	font-family:  Verdana, Arial, Helvetica;
+	font-weight: normal;
+	text-decoration: none;
+}
+select{
+	color: #000000;
+	font-size: 11px;
+	font-family:  Verdana, Arial, Helvetica;
+	font-weight: normal;
+	text-decoration: none;
+}
+input{
+	color: #000000;
+	font-size: 11px;
+	font-family:  Verdana, Arial, Helvetica;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+h1{
+	color: #000000;
+	font-size: 14px;
+	font-family:  Verdana, Arial, Helvetica;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.bigname{
+	color: #000000;
+	font-size: 14px;
+	font-family:  Verdana, Arial, Helvetica;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+a:link {
+	color: #003366;
+	font-size: 11px;
+	font-family:  Verdana, Arial, Helvetica; 
+	font-weight: bold;
+	text-decoration: none;
+}
+a:visited {
+	color: #003366;
+	font-size: 11px;
+	font-family:  Verdana, Arial, Helvetica; 
+	font-weight: bold;
+	text-decoration: none;
+}
+a:active {
+	color: #003366;
+	font-size: 11px;
+	font-family:  Verdana, Arial, Helvetica; 
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover {
+	color: #003366;
+	font-size: 11px;
+	font-family:  Verdana, Arial, Helvetica; 
+	font-weight: bold;
+	text-decoration: underline;
+}

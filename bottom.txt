@@ -1,0 +1,4 @@
+<center>
+These statistics are powered by <a href="http://www.tpl-design.com/tplleaguestats" target="_BLANK">tplLeagueStats</a> &copy; 2003 TPL Design<br>
+tplLeagueStats is Free Software released under the <a href='http://www.gnu.org'>GNU/GPL license</a>.
+</center>

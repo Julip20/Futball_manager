@@ -1,0 +1,72 @@
+tplLeaguestats v 1.0
+------------------------------------
+www.tpl-design.com/tplleaguestats
+info@tpl-design.com
+------------------------------------
+SUPPORT FORUM IN:
+http://www.tpl-design.com/supportforum/index.php
+------------------------------------
+
+
+1 INSTALLING
+************************************
+1. Open file admin/user.php.
+2. Change host, username, password and database name to
+match your MySQL-database.
+3. Upload the files to your server.
+4. Go to admin/installer.php.
+5. Fill the form and press the button.
+6. When installed, remove the admin/installer.php from your
+server to access admin/index.php.
+7. When admin/installer.php is removed, log in to admin area in admin/index.php.
+8. DONE!
+
+
+2. LOGGING IN FOR THE FIRST TIME
+************************************
+-Use username and password you filled when installing the software.
+-You must first add at least two teams to the database to access leagumatches-page.
+-After you have added teams go to preferences and save them.
+
+3 MENU AND SEASON SELECTOR
+************************************
+With menu you can navigate through admin area and with season selector 
+you can change season you want to edit.
+
+
+4 SEASON CONTROL
+************************************
+You can add as much seasons as you like, thought seasons with 
+same name can not be added. Add new season simply by giving a 
+season name and clicking 'Add season'-button. New season name should 
+now appear on the right side of the page.
+
+Modify season by clicking it first from the list and then do necessary changes.
+Seasons are automatically published. If you don't want to publish specific 
+season, then uncheck the checkbox. If season is published, it is visible 
+at the actual statistics.
+
+If you want to delete a season, you must first delete all matches from it.
+
+5 TEAM CONTROL
+*************************************
+Control teams as seasons. There is a checkbox when you edit a team name.
+If checkbox is checked, it means that team is your team.
+
+6 LEAGUE MATCH CONTROL
+*************************************
+Biggest part of tplLeagueStats software.
+
+Add matches:
+-choose a date
+-select teams from the dropdown menus (add final scores). Finally click
+'Add matches'
+-max 15 matches can be added to certain date each time
+-NOTICE: there can't be duplication entry for a team for one date!!
+
+Modify matches:
+-to choose all matches from certain date, click the date in the left
+-to choose single match, click home or away team
+
+Delete match:
+-click the home or away team in the left and choose 'delete'
